@@ -4,4 +4,6 @@
     <string name="zero">0</string>
     <string name="foul">Fouls</string>
     <string name="teamb">Team B</string>
+    <string name="fouled">Foul</string>
+    <string name="Goal">Goal</string>
 </resources>
