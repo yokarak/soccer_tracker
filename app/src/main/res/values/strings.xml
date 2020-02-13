@@ -3,4 +3,5 @@
     <string name="TeamA">Team A</string>
     <string name="zero">0</string>
     <string name="foul">Fouls</string>
+    <string name="teamb">Team B</string>
 </resources>
