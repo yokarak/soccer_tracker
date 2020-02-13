@@ -61,13 +61,15 @@
                 android:id="@+id/team_a_button_goal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/Goal" />
+                android:text="@string/Goal"
+                android:onClick="goalTeamA"/>
 
             <Button
                 android:id="@+id/team_a_button_foul"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/fouled" />
+                android:text="@string/fouled"
+                android:onClick="foulTeamA"/>
         </LinearLayout>
         <View
             android:id="@+id/divider3"
@@ -125,13 +127,15 @@
                 android:id="@+id/team_b_button_goal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/Goal" />
+                android:text="@string/Goal"
+                android:onClick="goalTeamB"/>
 
             <Button
                 android:id="@+id/team_b_button_foul"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/fouled" />
+                android:text="@string/fouled"
+                android:onClick="foulTeamB"/>
         </LinearLayout>
     </LinearLayout>
     <Button
