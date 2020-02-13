@@ -2,4 +2,5 @@
     <string name="app_name">soccer_tracker</string>
     <string name="TeamA">Team A</string>
     <string name="zero">0</string>
+    <string name="foul">Fouls</string>
 </resources>
